@@ -1,7 +1,8 @@
 accordian {
 
     .card-header{
-        background-color: map-get($colors , primary);
+ //       background-color: map-get($colors , primary);
+        background-color: #993366;
         color: #fff;
     }
     .card-content{
